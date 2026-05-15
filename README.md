@@ -54,3 +54,34 @@ https://github.com/vweldcore
 
 https://weldcore.gumroad.com
 
+
+## Related Repositories
+
+- Android Termux Automation Starter Pack
+https://github.com/vweldcore/android-termux-automation-starter-pack
+
+- Termux Crypto Monitor
+https://github.com/vweldcore/termux-crypto-monitor
+
+- Business Automation Kit
+https://github.com/vweldcore/vweldcore-business-automation-kit
+
+## Related Products
+
+- Mobile Automation Bundle
+https://weldcore.gumroad.com/l/zqcwiw
+
+- Business Automation Kit
+https://weldcore.gumroad.com/l/occcy
+
+## VWELDCORE Ecosystem
+
+Website:
+https://vweldcore.github.io/vweldcore-site/
+
+GitHub:
+https://github.com/vweldcore
+
+Gumroad:
+https://weldcore.gumroad.com
+
